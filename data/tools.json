@@ -1,7 +1,7 @@
 {
   "keyword": "krea ai alternatives",
   "title": "Krea AI alternatives for generation, editing and reusable workflows",
-  "lastChecked": "2026-09-28",
+  "lastChecked": "2026-10-05",
   "capabilityChecks": [
     {
       "key": "restApi",
@@ -188,7 +188,7 @@
         "lastPush": "2026-07-13T10:45:05Z",
         "latestRelease": "v1.6.5",
         "latestReleaseDate": "2025-08-06",
-        "checkedAt": "2026-09-28"
+        "checkedAt": "2026-10-05"
       }
     },
     {
@@ -218,11 +218,11 @@
         "vectorOutput": null
       },
       "live": {
-        "stars": 135327,
-        "lastPush": "2026-09-28T06:28:24Z",
-        "latestRelease": "v0.37.0",
-        "latestReleaseDate": "2026-09-21",
-        "checkedAt": "2026-09-28"
+        "stars": 136157,
+        "lastPush": "2026-10-05T13:14:25Z",
+        "latestRelease": "v0.38.0",
+        "latestReleaseDate": "2026-09-29",
+        "checkedAt": "2026-10-05"
       }
     }
   ]
